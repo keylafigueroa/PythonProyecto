@@ -45,6 +45,10 @@ class numero(QPushButton):
         self.color = color
     
     def setEsConstante(self,esConstante):
+<<<<<<< HEAD
         self.esConstante = esConstante
         
  
+=======
+        self.esConstante = esConstante
+>>>>>>> main modificado
