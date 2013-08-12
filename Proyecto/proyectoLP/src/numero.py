@@ -38,17 +38,11 @@ class numero(QPushButton):
     def setNumReal(self,numReal):
         self.numero_real = numReal
         
-    def setNumAsignado(self,numAsignado):
+    def setNumeroAsignado(self,numAsignado):
         self.numero_asignado = numAsignado
         
     def setColor(self,color):
         self.color = color
     
     def setEsConstante(self,esConstante):
-<<<<<<< HEAD
         self.esConstante = esConstante
-        
- 
-=======
-        self.esConstante = esConstante
->>>>>>> main modificado
